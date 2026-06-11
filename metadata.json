@@ -1,0 +1,6 @@
+{
+  "name": "SuperKool Penang",
+  "description": "An HVAC servicing booking and field technician management portal for SuperKool Penang, featuring live booking, assignments tracking, jobs detail checklists, interactive canvas signatures, and earnings history.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
